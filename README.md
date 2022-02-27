@@ -11,7 +11,7 @@
 
 - 🛠 Lang & Framework: Javascript, Vue/React
 - ⛏ Interest: Node, Typescript
-- 📓 Planning: Flutter、小程序、Rust、WASM
+- 📓 Planning: Flutter, 小程序, Rust, WASM
 
 ### Latest posts from 📝 [kyleezhang.github.io](https://kyleezhang.github.io/)
 
